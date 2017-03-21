@@ -1,0 +1,7 @@
+#Sun Mar 19 11:11:59 IST 2017
+base.0=/Users/jenishpatel/Downloads/MAPSS/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_5052eb5bf45db3d95fb0ffc23588d4bb181b9acf
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/Users/jenishpatel/Downloads/MAPSS/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_52ac3756c88331f233b14ef9f04d300b4f41cf7f/classes.dex
+base.1=/Users/jenishpatel/Downloads/MAPSS/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_52ac3756c88331f233b14ef9f04d300b4f41cf7f
+file.0=/Users/jenishpatel/Downloads/MAPSS/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_5052eb5bf45db3d95fb0ffc23588d4bb181b9acf/classes.dex
